@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+.color{
+    color: orangered;
+}
+section{
+    display: flex;
+    padding-bottom: 30px;
+}
+.half-width{
+    width: 40%;
+    padding: 8%;
+}
+.half-width img{
+    width: 68%;
+    
+}
+.half-width1 img{
+    width: 90%;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg,orange,tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+.middel-banner{
+    
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+   
+}
+.center{
+    text-align: center;
+    
+   
+
+}
+.middel{
+    padding-left: 300px;
+    padding-right: 300px;
+    
+
+}
+.flexiable{
+    display: flex;
+    width: 350px;
+    margin-left: 5%;
+    
+     
+    
+}
+.card {
+    box-shadow: 10px 10px 40px rgb(168, 165, 165);
+    width: 100%;  
+    border-radius: 20px;
+    padding: 10px;
+    
+   
+  }
+  .card-image{
+      width: 300px;
+     padding: 3%;
+  }
+  .para-design{
+      padding: 4%;
+  }
+  
+  .bottom-flex{
+      
+      display: flex;
+      margin: 5% 5%;
+      justify-content: space-around;
+      width: 100%;
+      box-shadow: 10px 10px 40px rgb(221, 216, 216);
+      border-radius: 20px;
+      
+  }
+
+  .footer-line{
+      text-align: center;
+      color: whitesmoke;
+      background-color: rgb(59, 58, 58);
+      padding: 20px 0;
+  }
+  #food-col{
+      color: tomato;
+  }
+  #net-col{
+      color: turquoise;
+  }
+  
+      
+      
+     
+  
